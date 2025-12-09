@@ -43,7 +43,7 @@ to publish it under a CC-BY-4.0 license.
    [form for collecting contributions](https://forms.office.com/e/majtzigfXt).
 
 2. We will then translate your reply into a text according to the
-   template and publish in this GitHub repository on your behalf.
+   template and publish it in this GitHub repository on your behalf.
 
 ### Submit your case study by email
 
