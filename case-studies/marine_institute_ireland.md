@@ -26,6 +26,8 @@ distinguish them from samples in other domains?*
 
 Typically all samples will have certain information recorded: where, when, who, and how.  We record date/time of collection, location of collection, and sampling personnel.  The resolution of these values can depend on how the sample was collected - for example, sometimes only a broad collection area is known rather than a specific latitude/longitude.
 
+Most samples will be collected in the sea, but some will be collected in rivers/freshwater environments.
+
 For biological samples we record the species (or possibly a higher taxonomic group if species can't be identified).  Depending on the sampling programme other details such as the length, weight, sex, maturity, and age of the individual will also be recorded.
 
 Details about how the sample was obtained will also be recorded but these will depend on the sampling programme.  For example, when sampling commercial fishing vessels we would record details about the fishing vessel and its fishing activity.  When collecting samples on our research vessels we would record haul numbers and size category.
