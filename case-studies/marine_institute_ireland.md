@@ -1,6 +1,6 @@
-# Samples in the xyz community
+# Samples in the Marine Institute Ireland
 
-## About the xyz community
+## About the Marine Institute Ireland
 
 *Please provide a short description of the community or scientific
 domain you are representing.*
@@ -9,7 +9,7 @@ We are the state agency responsible for marine research, technology development 
 
 Methodology documents for Ireland's fishery data collection programme can be found at https://www.dcmap-ireland.ie/methodologies
 
-## Samples in the xyz community
+## Samples in the Marine Institute Ireland
 
 *Describe the samples that you are dealing with in your community.
 Give an overview of the variety of different samples.*
